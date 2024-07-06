@@ -4,7 +4,7 @@
 <h4 align="center">
 :construction: Proyecto en construcción :construction:
 </h4>
-:hammer:Funcionalidades del proyecto
-1.- La funcionalidad principal es convertir el valor de un tipo de moneda a otro, según las nesecidades del usuario.
-2.- Muestra un historial de converisiones realizadas durante la ejecución del programa
+<h3>:hammer:Funcionalidades del proyecto</h3>
+<p>1.- La funcionalidad principal es convertir el valor de un tipo de moneda a otro, según las nesecidades del usuario.</p>
+<p>2.- Muestra un historial de converisiones realizadas durante la ejecución del programa</p>
 
